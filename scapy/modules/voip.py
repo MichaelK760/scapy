@@ -103,8 +103,7 @@ def voip_play1(s1, lst=None, **kargs):
 
 
 def voip_play2(s1, **kargs):
-    """
-    Same than voip_play, but will play
+    """Same than voip_play, but will play
     both incoming and outcoming packets.
     The sound will surely suffer distortion.
 
